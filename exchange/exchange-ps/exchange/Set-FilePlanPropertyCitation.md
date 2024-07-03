@@ -34,7 +34,7 @@ To use this cmdlet in Security & Compliance PowerShell, you need to be assigned 
 
 ### Example 1
 ```powershell
-Set--FilePlanPropertyCitation -Identity "Contoso-0001" -CitationUrl https:intra.contoso.com/citation
+Set-FilePlanPropertyCitation -Identity "Contoso-0001" -CitationUrl https:intra.contoso.com/citation
 ```
 
 This example modifies the citation URL for the custom file plan property citation named Contoso-0001.
